@@ -139,7 +139,7 @@ namespace GPF_Final_Assessment
 				if (enemies [i].enemyposition.X < -graphics.PreferredBackBufferWidth)
 					enemies.RemoveAt (i);
 			}
-
+			collisionsWithEnemy ();
         }
 
 		
@@ -177,6 +177,20 @@ namespace GPF_Final_Assessment
 			enemies.Add (e);
 
 
+		}
+		void collisionsWithEnemy()
+		{
+			Rectangle playerrect = new Rectangle ((int)player.position.X, (int)player.position.Y, player.texture.Width, player.texture.Height);
+
+			for (int i = enemies.Count - 1; i >= 0; i--) {
+				Rectangle enemiesrect = new Rectangle ((int)enemies [i].enemyposition.X, (int)enemies [i].enemyposition.Y, enemies [i].EnemyTexture.Width, enemies [i].EnemyTexture.Height);
+
+
+				if (Rectangle.Intersect (playerrect, enemiesrect) != Rectangle.Empty) {
+					enemies.RemoveAt (i);
+					break;
+				}
+			}
 		}
     }
 }

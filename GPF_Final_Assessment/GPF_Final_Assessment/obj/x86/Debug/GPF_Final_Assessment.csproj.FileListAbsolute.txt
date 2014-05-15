@@ -22,3 +22,15 @@ C:\Users\Ex-Office\Documents\GitHub\GPF_Final_Assessment\GPF_Final_Assessment\GP
 C:\Users\Ex-Office\Documents\GitHub\GPF_Final_Assessment\GPF_Final_Assessment\GPF_Final_Assessment\bin\WindowsGL\Debug\OpenTK.dll
 C:\Users\Ex-Office\Documents\GitHub\GPF_Final_Assessment\GPF_Final_Assessment\GPF_Final_Assessment\bin\WindowsGL\Debug\Tao.Sdl.dll
 C:\Users\Ex-Office\Documents\GitHub\GPF_Final_Assessment\GPF_Final_Assessment\GPF_Final_Assessment\bin\WindowsGL\Debug\Content\Enemy.png
+C:\Users\Ex-Office\Documents\GitHub\EnemyClass\GPF_Final_Assessment\GPF_Final_Assessment\obj\x86\Debug\GPF_Final_Assessment.csprojResolveAssemblyReference.cache
+C:\Users\Ex-Office\Documents\GitHub\EnemyClass\GPF_Final_Assessment\GPF_Final_Assessment\obj\x86\Debug\GPF_Final_Assessment.exe
+C:\Users\Ex-Office\Documents\GitHub\EnemyClass\GPF_Final_Assessment\GPF_Final_Assessment\obj\x86\Debug\GPF_Final_Assessment.pdb
+C:\Users\Ex-Office\Documents\GitHub\EnemyClass\GPF_Final_Assessment\GPF_Final_Assessment\bin\WindowsGL\Debug\Content\player_blue.png
+C:\Users\Ex-Office\Documents\GitHub\EnemyClass\GPF_Final_Assessment\GPF_Final_Assessment\bin\WindowsGL\Debug\Content\ui_background.png
+C:\Users\Ex-Office\Documents\GitHub\EnemyClass\GPF_Final_Assessment\GPF_Final_Assessment\bin\WindowsGL\Debug\Content\Enemy.png
+C:\Users\Ex-Office\Documents\GitHub\EnemyClass\GPF_Final_Assessment\GPF_Final_Assessment\bin\WindowsGL\Debug\GPF_Final_Assessment.exe
+C:\Users\Ex-Office\Documents\GitHub\EnemyClass\GPF_Final_Assessment\GPF_Final_Assessment\bin\WindowsGL\Debug\GPF_Final_Assessment.pdb
+C:\Users\Ex-Office\Documents\GitHub\EnemyClass\GPF_Final_Assessment\GPF_Final_Assessment\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Ex-Office\Documents\GitHub\EnemyClass\GPF_Final_Assessment\GPF_Final_Assessment\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Ex-Office\Documents\GitHub\EnemyClass\GPF_Final_Assessment\GPF_Final_Assessment\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Ex-Office\Documents\GitHub\EnemyClass\GPF_Final_Assessment\GPF_Final_Assessment\bin\WindowsGL\Debug\Tao.Sdl.dll
